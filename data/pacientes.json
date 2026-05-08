@@ -1,0 +1,125 @@
+[
+    {
+        "_id": "e2a4c307-cd0c-40ea-bd7c-52317d28f8c2",
+        "nombre": "Carlos",
+        "apellido": "Méndez",
+        "género": "masculino",
+        "fechaNacimiento": {
+            "$date": "1982-01-15T00:00:00Z"
+        }
+    },
+    {
+        "_id": "9df99189-e021-4e24-9602-ffd37026d4ac",
+        "nombre": "Ana",
+        "apellido": "López",
+        "género": "femenino",
+        "fechaNacimiento": {
+            "$date": "1989-06-22T00:00:00Z"
+        }
+    },
+    {
+        "_id": "2dc8e15b-c76f-411f-9dbc-86f11dfe0aaa",
+        "nombre": "Roberto",
+        "apellido": "Sánchez",
+        "género": "masculino",
+        "fechaNacimiento": {
+            "$date": {
+                "$numberLong": "-435888000000"
+            }
+        }
+    },
+    {
+        "_id": "3cefaa56-5f36-4abc-b143-91c3ac682cb5",
+        "nombre": "María",
+        "apellido": "Fernández",
+        "género": "femenino",
+        "fechaNacimiento": {
+            "$date": "1996-11-08T00:00:00Z"
+        }
+    },
+    {
+        "_id": "fd849a3e-8e14-48a2-a5ec-bf8c52102a70",
+        "nombre": "Javier",
+        "apellido": "Ruiz",
+        "género": "masculino",
+        "fechaNacimiento": {
+            "$date": {
+                "$numberLong": "-14256000000"
+            }
+        }
+    },
+    {
+        "_id": "0df5dc34-ce1f-4fdc-8b52-7914b4c7a3be",
+        "nombre": "Lucía",
+        "apellido": "Gómez",
+        "género": "femenino",
+        "fechaNacimiento": {
+            "$date": "1977-09-14T00:00:00Z"
+        }
+    },
+    {
+        "_id": "5d94883a-71e3-4296-9c01-dc75a5ed7313",
+        "nombre": "Elena",
+        "apellido": "Torres",
+        "género": "femenino",
+        "fechaNacimiento": {
+            "$date": "1993-04-28T00:00:00Z"
+        }
+    },
+    {
+        "_id": "84308e6a-0dc4-4c65-b41d-c647d2a9b0d5",
+        "nombre": "Roberto",
+        "apellido": "Ruiz",
+        "género": "masculino",
+        "fechaNacimiento": {
+            "$date": "1990-12-05T00:00:00Z"
+        }
+    },
+    {
+        "_id": "d42c14a2-e34d-464d-8243-1af631974beb",
+        "nombre": "Beatriz",
+        "apellido": "Luna",
+        "género": "femenino",
+        "fechaNacimiento": {
+            "$date": "1995-08-17T00:00:00Z"
+        }
+    },
+    {
+        "_id": "574325e2-e918-4324-8ad6-12c8f756cc96",
+        "nombre": "Fernando",
+        "apellido": "Costa",
+        "género": "masculino",
+        "fechaNacimiento": {
+            "$date": "1972-02-11T00:00:00Z"
+        }
+    },
+    {
+        "_id": "b3b657ed-0de4-47e0-9b6e-f7acf98f4226",
+        "nombre": "Isabel",
+        "apellido": "Ortiz",
+        "género": "femenino",
+        "fechaNacimiento": {
+            "$date": "1983-05-30T00:00:00Z"
+        }
+    },
+    {
+        "_id": "4e86ae73-7d09-4ae0-8e50-aa301fa19e2b",
+        "nombre": "Sergio",
+        "apellido": "Marín",
+        "género": "masculino",
+        "fechaNacimiento": {
+            "$date": "2002-10-19T00:00:00Z"
+        }
+    },
+    {
+        "_id": "bdd8f85e-6d2c-461d-8115-0443e812eec8",
+        "nombre": "Carmen",
+        "apellido": "Vega",
+        "género": "femenino",
+        "fechaNacimiento": {
+            "$date": {
+                "$numberLong": "-166233600000"
+            }
+        }
+    }
+]

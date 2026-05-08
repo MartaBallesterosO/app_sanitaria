@@ -1,0 +1,524 @@
+[
+    {
+        "_id": "6a39d52f-9d40-49e4-83cc-bdefb0b87db9",
+        "id_paciente": "9df99189-e021-4e24-9602-ffd37026d4ac",
+        "valores": {
+            "sistolica": 118,
+            "diastolica": 76,
+            "metodo": "Auscultation - manual",
+            "sitio": "Wrist Right",
+            "brazalete": "Adult standard",
+            "dispositivo": "Home oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-02-12T09:30:00Z"
+        },
+        "valoracion": "Normal",
+        "valor_en_rango": true
+    },
+    {
+        "_id": "61775479-e3a3-4441-86e7-8e6d3343d110",
+        "id_paciente": "2dc8e15b-c76f-411f-9dbc-86f11dfe0aaa",
+        "valores": {
+            "sistolica": 128,
+            "diastolica": 82,
+            "metodo": "Oscillometry",
+            "sitio": "Wrist Left",
+            "brazalete": "Adult large",
+            "dispositivo": "Home oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-02-12T18:45:00Z"
+        },
+        "valoracion": "Elevada",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "1d2d9e54-5fa1-434f-a77b-e38232cd82cd",
+        "id_paciente": "3cefaa56-5f36-4abc-b143-91c3ac682cb5",
+        "valores": {
+            "sistolica": 135,
+            "diastolica": 88,
+            "metodo": "Oscillometry",
+            "sitio": "Wrist Right",
+            "brazalete": "Adult standard",
+            "dispositivo": "Ambulatory oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-02-13T07:15:00Z"
+        },
+        "valoracion": "Hipertensión Etapa 1",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "786d8cac-6c20-411e-a296-b58296e03e55",
+        "id_paciente": "fd849a3e-8e14-48a2-a5ec-bf8c52102a70",
+        "valores": {
+            "sistolica": 152,
+            "diastolica": 96,
+            "metodo": "Auscultation - automatic",
+            "sitio": "Wrist Left",
+            "brazalete": "Adult standard",
+            "dispositivo": "Ambulatory oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-02-13T14:20:00Z"
+        },
+        "valoracion": "Hipertensión Etapa 2",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "3883be6f-b6a5-474c-9f90-95f82eaecc7b",
+        "id_paciente": "0df5dc34-ce1f-4fdc-8b52-7914b4c7a3be",
+        "valores": {
+            "sistolica": 168,
+            "diastolica": 104,
+            "metodo": "Oscillometry",
+            "sitio": "Wrist Right",
+            "brazalete": "Adult large",
+            "dispositivo": "Ambulatory oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-02-14T11:00:00Z"
+        },
+        "valoracion": "Hipertensión Etapa 2",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "dd9382d6-5a43-4f2e-9e71-a04dc7685fa8",
+        "id_paciente": "5d94883a-71e3-4296-9c01-dc75a5ed7313",
+        "valores": {
+            "sistolica": 132,
+            "diastolica": 70,
+            "metodo": "Auscultation - manual",
+            "sitio": "Wrist Right",
+            "brazalete": "Adult standard",
+            "dispositivo": "Home oscillometric device"
+        },
+        "estado": "corregido",
+        "fecha": {
+            "$date": "2026-02-14T16:30:00Z"
+        },
+        "valoracion": "Normal",
+        "valor_en_rango": true
+    },
+    {
+        "_id": "aaeff377-87ed-4121-8c1a-86754d34e80d",
+        "id_paciente": "84308e6a-0dc4-4c65-b41d-c647d2a9b0d5",
+        "valores": {
+            "sistolica": 145,
+            "diastolica": 95,
+            "metodo": "Oscillometry",
+            "sitio": "Wrist Right",
+            "brazalete": "Adult standard",
+            "dispositivo": "Home oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-02-15T08:00:00Z"
+        },
+        "valoracion": "Hipertensión Etapa 1",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "77ac5f7d-3af8-4b44-be85-f11b4b0dc51e",
+        "id_paciente": "d42c14a2-e34d-464d-8243-1af631974beb",
+        "valores": {
+            "sistolica": 110,
+            "diastolica": 78,
+            "metodo": "Auscultation - automatic",
+            "sitio": "Wrist Left",
+            "brazalete": "Adult large",
+            "dispositivo": "Ambulatory oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-02-15T19:45:00Z"
+        },
+        "valoracion": "Normal",
+        "valor_en_rango": true
+    },
+    {
+        "_id": "443fd8a5-c8c7-406a-929d-ebb5526a24c8",
+        "id_paciente": "574325e2-e918-4324-8ad6-12c8f756cc96",
+        "valores": {
+            "sistolica": 158,
+            "diastolica": 102,
+            "metodo": "Oscillometry",
+            "sitio": "Wrist Right",
+            "brazalete": "Adult standard",
+            "dispositivo": "Home oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-02-16T10:15:00Z"
+        },
+        "valoracion": "Hipertensión Etapa 2",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "d2c60838-83cb-4b73-870d-4920c36f5f30",
+        "id_paciente": "b3b657ed-0de4-47e0-9b6e-f7acf98f4226",
+        "valores": {
+            "sistolica": 172,
+            "diastolica": 108,
+            "metodo": "Auscultation - manual",
+            "sitio": "Wrist Left",
+            "brazalete": "Adult large",
+            "dispositivo": "Home oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-02-16T15:30:00Z"
+        },
+        "valoracion": "Hipertensión Etapa 2",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "a4b98778-c14a-460d-83b1-1d95f1316f12",
+        "id_paciente": "4e86ae73-7d09-4ae0-8e50-aa301fa19e2b",
+        "valores": {
+            "sistolica": 122,
+            "diastolica": 80,
+            "metodo": "Oscillometry",
+            "sitio": "Wrist Right",
+            "brazalete": "Adult standard",
+            "dispositivo": "Home oscillometric device"
+        },
+        "estado": "corregido",
+        "fecha": {
+            "$date": "2026-02-17T07:30:00Z"
+        },
+        "valoracion": "Normal",
+        "valor_en_rango": true
+    },
+    {
+        "_id": "6cd44f9e-438a-44e3-8987-2a8ab63ff657",
+        "id_paciente": "bdd8f85e-6d2c-461d-8115-0443e812eec8",
+        "valores": {
+            "sistolica": 138,
+            "diastolica": 86,
+            "metodo": "Auscultation - automatic",
+            "sitio": "Wrist Right",
+            "brazalete": "Adult standard",
+            "dispositivo": "Ambulatory oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-02-17T12:00:00Z"
+        },
+        "valoracion": "Hipertensión Etapa 1",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "a4ad4870-7c31-4191-a699-63ca03731490",
+        "id_paciente": "4e86ae73-7d09-4ae0-8e50-aa301fa19e2b",
+        "valores": {
+            "sistolica": 105,
+            "diastolica": 68,
+            "metodo": "Oscillometry",
+            "sitio": "Wrist Left",
+            "brazalete": "Adult standard",
+            "dispositivo": "Home oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-02-18T09:00:00Z"
+        },
+        "valoracion": "Normal",
+        "valor_en_rango": true
+    },
+    {
+        "_id": "21490110-a431-4945-9442-9eb76c55da6a",
+        "id_paciente": "0df5dc34-ce1f-4fdc-8b52-7914b4c7a3be",
+        "valores": {
+            "sistolica": 89,
+            "diastolica": 58,
+            "metodo": "Oscillometry",
+            "sitio": "Wrist Right",
+            "brazalete": "Adult standard",
+            "dispositivo": "Ambulatory oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-01-05T10:30:00Z"
+        },
+        "valoracion": "Hipotensión",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "8045cb82-f41c-49f7-9447-1ffafa42d509",
+        "id_paciente": "0df5dc34-ce1f-4fdc-8b52-7914b4c7a3be",
+        "valores": {
+            "sistolica": 210,
+            "diastolica": 120,
+            "metodo": "Auscultation - manual",
+            "sitio": "Wrist Left",
+            "brazalete": "Adult large",
+            "dispositivo": "Home oscillometric device"
+        },
+        "estado": "corregido",
+        "fecha": {
+            "$date": "2026-01-08T15:45:00Z"
+        },
+        "valoracion": "Crisis hipertensiva - Emergencia",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "a5fcdacc-95bf-4dc5-95df-80db9e521090",
+        "id_paciente": "5d94883a-71e3-4296-9c01-dc75a5ed7313",
+        "valores": {
+            "sistolica": 98,
+            "diastolica": 62,
+            "metodo": "Auscultation - manual",
+            "sitio": "Wrist Right",
+            "brazalete": "Adult standard",
+            "dispositivo": "Home oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-01-12T22:10:00Z"
+        },
+        "valoracion": "Hipotensión leve",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "704df7b7-8ba6-4f97-8618-471f3f153b0d",
+        "id_paciente": "84308e6a-0dc4-4c65-b41d-c647d2a9b0d5",
+        "valores": {
+            "sistolica": 182,
+            "diastolica": 94,
+            "metodo": "Oscillometry",
+            "sitio": "Wrist Right",
+            "brazalete": "Adult standard",
+            "dispositivo": "Ambulatory oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-01-18T08:20:00Z"
+        },
+        "valoracion": "Hipertensión sistólica aislada",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "d676335d-0f2d-409b-8031-dc497f157f6b",
+        "id_paciente": "d42c14a2-e34d-464d-8243-1af631974beb",
+        "valores": {
+            "sistolica": 124,
+            "diastolica": 92,
+            "metodo": "Auscultation - automatic",
+            "sitio": "Ankle Left",
+            "brazalete": "Adult large",
+            "dispositivo": "Home oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-01-22T11:15:00Z"
+        },
+        "valoracion": "Medición índice tobillo-brazo",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "750afaf5-5a5d-4d56-b50c-10fe4343fc8c",
+        "id_paciente": "9df99189-e021-4e24-9602-ffd37026d4ac",
+        "valores": {
+            "sistolica": 146,
+            "diastolica": 88,
+            "metodo": "Oscillometry",
+            "sitio": "Wrist Left",
+            "brazalete": "Thigh extra large",
+            "dispositivo": "Home oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-01-25T16:00:00Z"
+        },
+        "valoracion": "Hipertensión Etapa 1 - cuff especial",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "d5829067-af31-4b4c-a92c-cd0397201c3a",
+        "id_paciente": "9df99189-e021-4e24-9602-ffd37026d4ac",
+        "valores": {
+            "sistolica": 118,
+            "diastolica": 76,
+            "metodo": "Auscultation - manual",
+            "sitio": "Wrist Right",
+            "brazalete": "Adult standard",
+            "dispositivo": "Home oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-02-01T09:30:00Z"
+        },
+        "valoracion": "Normal - estudiante práctica",
+        "valor_en_rango": true
+    },
+    {
+        "_id": "441e3f02-6cd5-4de7-8078-3fd6ce05d6d6",
+        "id_paciente": "2dc8e15b-c76f-411f-9dbc-86f11dfe0aaa",
+        "valores": {
+            "sistolica": 134,
+            "diastolica": 78,
+            "metodo": "Oscillometry",
+            "sitio": "Wrist Left",
+            "brazalete": "Adult standard",
+            "dispositivo": "Home oscillometric device"
+        },
+        "estado": "corregido",
+        "fecha": {
+            "$date": "2026-02-04T20:15:00Z"
+        },
+        "valoracion": "Normal-alta",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "830ca647-1186-4a4e-8c74-320ee541cd24",
+        "id_paciente": "3cefaa56-5f36-4abc-b143-91c3ac682cb5",
+        "valores": {
+            "sistolica": 156,
+            "diastolica": 112,
+            "metodo": "Auscultation - automatic",
+            "sitio": "Wrist Right",
+            "brazalete": "Adult standard",
+            "dispositivo": "Ambulatory oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-02-09T14:45:00Z"
+        },
+        "valoracion": "Hipertensión severa",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "fb0cee76-d65d-4c40-8142-d0a9c2c4b0a4",
+        "id_paciente": "fd849a3e-8e14-48a2-a5ec-bf8c52102a70",
+        "valores": {
+            "sistolica": 142,
+            "diastolica": 68,
+            "metodo": "Oscillometry",
+            "sitio": "Wrist Left",
+            "brazalete": "Adult standard",
+            "dispositivo": "Home oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-02-14T07:45:00Z"
+        },
+        "valoracion": "Hipertensión sistólica",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "f1f8cc55-5e0c-4a36-8766-01a01ef65a1b",
+        "id_paciente": "fd849a3e-8e14-48a2-a5ec-bf8c52102a70",
+        "valores": {
+            "sistolica": 94,
+            "diastolica": 70,
+            "metodo": "Auscultation - manual",
+            "sitio": "Thigh Right",
+            "brazalete": "Thigh extra large",
+            "dispositivo": "Ambulatory oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-02-18T23:00:00Z"
+        },
+        "valoracion": "Hipotensión - medición alternativa",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "14e4da8e-213b-4c6b-8fac-b1e95299f5b4",
+        "id_paciente": "e2a4c307-cd0c-40ea-bd7c-52317d28f8c2",
+        "valores": {
+            "sistolica": 158,
+            "diastolica": 98,
+            "metodo": "Auscultation - automatic",
+            "sitio": "Wrist Right",
+            "brazalete": "Adult standard",
+            "dispositivo": "Ambulatory oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-01-10T09:15:00Z"
+        },
+        "valoracion": "Hipertensión Etapa 2 - primera consulta",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "1ee4597f-3d9b-4121-afc4-938c7a04ab7e",
+        "id_paciente": "e2a4c307-cd0c-40ea-bd7c-52317d28f8c2",
+        "valores": {
+            "sistolica": 148,
+            "diastolica": 94,
+            "metodo": "Auscultation - automatic",
+            "sitio": "Wrist Right",
+            "brazalete": "Adult standard",
+            "dispositivo": "Ambulatory oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-01-24T10:30:00Z"
+        },
+        "valoracion": "Hipertensión Etapa 2 - seguimiento 2 semanas",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "163fffdb-7446-461c-962e-4101b1272979",
+        "id_paciente": "e2a4c307-cd0c-40ea-bd7c-52317d28f8c2",
+        "valores": {
+            "sistolica": 138,
+            "diastolica": 88,
+            "metodo": "Auscultation - automatic",
+            "sitio": "Wrist Right",
+            "brazalete": "Adult standard",
+            "dispositivo": "Ambulatory oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-02-07T11:45:00Z"
+        },
+        "valoracion": "Hipertensión Etapa 1 - inicio de respuesta",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "a5809b63-27e6-48f4-b8b5-bfd9a9cb7b0d",
+        "id_paciente": "e2a4c307-cd0c-40ea-bd7c-52317d28f8c2",
+        "valores": {
+            "sistolica": 128,
+            "diastolica": 82,
+            "metodo": "Auscultation - automatic",
+            "sitio": "Wrist Right",
+            "brazalete": "Adult standard",
+            "dispositivo": "Ambulatory oscillometric device"
+        },
+        "estado": "final",
+        "fecha": {
+            "$date": "2026-02-21T09:00:00Z"
+        },
+        "valoracion": "Elevada - mejora significativa",
+        "valor_en_rango": false
+    },
+    {
+        "_id": "c142adca-91af-47c2-af42-f7b11cc68630",
+        "id_paciente": "e2a4c307-cd0c-40ea-bd7c-52317d28f8c2",
+        "valores": {
+            "sistolica": 118,
+            "diastolica": 76,
+            "metodo": "Auscultation - automatic",
+            "sitio": "Wrist Right",
+            "brazalete": "Adult standard",
+            "dispositivo": "Ambulatory oscillometric device"
+        },
+        "estado": "corregido",
+        "fecha": {
+            "$date": "2026-03-07T08:30:00Z"
+        },
+        "valoracion": "Normal - control alcanzado",
+        "valor_en_rango": true
+    }
+]
